@@ -1,0 +1,13 @@
+package com.leparisien;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LeparisienApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
